@@ -21,7 +21,7 @@ import SoundCloudPlugin from "@distube/soundcloud";
 import DeezerPlugin from "@distube/deezer";
 import { DirectLinkPlugin } from "@distube/direct-link";
 
-const TOKEN = "MTM1MTU1NTk4MDkwNjcyOTUyMg.GHKiuN.BOQU327-H1aqZ9iKpGex9PwSBJckZvWCOIMCP4";
+const TOKEN = "YOUR TOKEN IN HERE/MASUKAN TOKEN DISINI";
 
 export const followUp = async (
   interaction: ChatInputCommandInteraction,
